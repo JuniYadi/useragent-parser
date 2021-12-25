@@ -1,0 +1,23 @@
+{
+  "name": "useragent-parser",
+  "version": "1.0.0",
+  "description": "parse user agent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuniYadi/useragent-parser.git"
+  },
+  "author": "Juni Yadi <me@juniyadi.id>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuniYadi/useragent-parser/issues"
+  },
+  "homepage": "https://github.com/JuniYadi/useragent-parser#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "which-browser": "^0.5.1"
+  }
+}
